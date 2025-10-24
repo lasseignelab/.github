@@ -25,7 +25,7 @@
 - [ ] Primary and secondary reviewers have been requested to review this
   pull request.
 
-## Self/Peer Review Checklist [Coding Guidelines](https://docs.google.com/document/d/1h1hxQGrqnQqo1pAxrrtX1OtjHddRTqtgsgDFSXOQpzk/edit?usp=sharing)
+## Self/Peer Review Checklist ([Coding Guidelines](https://docs.google.com/document/d/1h1hxQGrqnQqo1pAxrrtX1OtjHddRTqtgsgDFSXOQpzk/edit?usp=sharing))
 - Meaningful variable and function names
 - File header comments
 - Function comments
