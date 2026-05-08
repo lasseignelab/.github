@@ -22,6 +22,10 @@
 - [ ] No merge conflicts exist. Merge conflicts are indicated by the "This
   branch has conflicts that must be resolved" message in the GitHub pull
   request status box above the "Merge pull request" button.
+- [ ] Setup instructions have been provided.
+- [ ] Reproducing results instructions have been provided.
+- [ ] Verification instructions have been provided.
+- [ ] Setup, reproduce results, and verification instructions have been tested in a clean scratch environment.
 - [ ] Primary and secondary reviewers have been requested to review this
   pull request.
 
